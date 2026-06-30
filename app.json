@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "TP8 EFSI - Instagram Clone",
+    "slug": "tp8-efsi-instagram-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0e1726"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0e1726"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  }
+}
